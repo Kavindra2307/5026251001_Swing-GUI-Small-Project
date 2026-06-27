@@ -122,22 +122,7 @@ java -cp "out;lib/mysql-connector-j-*.jar" Main
 
 ## Screenshots
 
-## Screenshots
-
-### Login Window
-![Login Window](Screenshots/login-window.png)
-
-### Main Menu
-![Main Menu](Screenshots/main-menu.png)
-
-### Game Window
-![Game Window](Screenshots/game-window.png)
-
-### My Statistics
-![Statistics](Screenshots/statistics-window.png)
-
-### Top 5 Scorers
-![Top 5 Scorers](Screenshots/top-scorers-window.png)
+In Screenshots Folder
 
 ---
 
