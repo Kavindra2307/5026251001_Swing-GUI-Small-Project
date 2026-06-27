@@ -2,10 +2,10 @@
 
 ## Student Information
 
-| Field       | Value |
-|-------------|-------|
-| Name        | *(Fill your name)* |
-| Student ID  | *(Fill your NRP)* |
+| Field       | Value                              |
+|-------------|------------------------------------|
+| Name        | Abi Ahmad Kavindra Hendika         |
+| Student ID  | 5026251001                         |
 | Class       | ES234211 – Programming Fundamental |
 
 ---
@@ -122,15 +122,26 @@ java -cp "out;lib/mysql-connector-j-*.jar" Main
 
 ## Screenshots
 
-*(Add screenshots of the running application here)*
+## Screenshots
 
-- `screenshots/login-window.png`
-- `screenshots/game-window.png`
-- `screenshots/top-scorers-window.png`
+### Login Window
+![Login Window](Screenshots/login-window.png)
+
+### Main Menu
+![Main Menu](Screenshots/main-menu.png)
+
+### Game Window
+![Game Window](Screenshots/game-window.png)
+
+### My Statistics
+![Statistics](Screenshots/statistics-window.png)
+
+### Top 5 Scorers
+![Top 5 Scorers](Screenshots/top-scorers-window.png)
 
 ---
 
 ## Links
 
-- **GitHub:** *(add your repository link here)*
-- **YouTube Demo:** *(add your video link here)*
+- GitHub: https://github.com/Kavindra2307/5026251001_Swing-GUI-Small-Project
+- YouTube Demo: https://youtu.be/GENPGpaAZ0Q
